@@ -1,5 +1,3 @@
-README
-
 PROJECT TITLE
 Modern React Component Library
 
